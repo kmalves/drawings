@@ -1,2 +1,2 @@
-# drawings
-drawing with Python
+# Drawings
+Drawing with Python using turtle graphics
